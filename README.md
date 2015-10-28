@@ -16,6 +16,9 @@ Let's work together to analyze and visualize transit issues in the District!
 
 - [Meetup on October 29, 2015](http://www.meetup.com/HackShopDC/events/226003258/)
 
+A starter R file connecting to the data can be found in this repository. To get a sense of how different requests look across the city see this [starter visualization] (https://public.tableau.com/views/VisionZeroDCData/VisZeroMap?:embed=y&:display_count=yes&:showTabs=y)
+
+
 ### Data
 
 - [DDOT Citizen input to dangerous issues](opendata.dc.gov/datasets/3f28bc3ad77f49079efee0ac05d8464c_0)
